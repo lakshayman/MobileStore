@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/MobileStore/static/js/main.16e0edcc.chunk.js",
-    "main.js.map": "/MobileStore/static/js/main.16e0edcc.chunk.js.map",
+    "main.js": "/MobileStore/static/js/main.b3381496.chunk.js",
+    "main.js.map": "/MobileStore/static/js/main.b3381496.chunk.js.map",
     "runtime-main.js": "/MobileStore/static/js/runtime-main.4d1a66de.js",
     "runtime-main.js.map": "/MobileStore/static/js/runtime-main.4d1a66de.js.map",
-    "static/js/2.6cd67939.chunk.js": "/MobileStore/static/js/2.6cd67939.chunk.js",
-    "static/js/2.6cd67939.chunk.js.map": "/MobileStore/static/js/2.6cd67939.chunk.js.map",
+    "static/js/2.465445fa.chunk.js": "/MobileStore/static/js/2.465445fa.chunk.js",
+    "static/js/2.465445fa.chunk.js.map": "/MobileStore/static/js/2.465445fa.chunk.js.map",
     "index.html": "/MobileStore/index.html",
-    "static/js/2.6cd67939.chunk.js.LICENSE.txt": "/MobileStore/static/js/2.6cd67939.chunk.js.LICENSE.txt"
+    "static/js/2.465445fa.chunk.js.LICENSE.txt": "/MobileStore/static/js/2.465445fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d1a66de.js",
-    "static/js/2.6cd67939.chunk.js",
-    "static/js/main.16e0edcc.chunk.js"
+    "static/js/2.465445fa.chunk.js",
+    "static/js/main.b3381496.chunk.js"
   ]
 }
